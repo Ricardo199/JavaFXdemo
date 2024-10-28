@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d40b55e9-5586-41cf-a587-e80b78844468" name="Changes" comment="example of JavaFX" />
+    <list default="true" id="d40b55e9-5586-41cf-a587-e80b78844468" name="Changes" comment="example of JavaFX">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +51,7 @@
     &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -79,6 +81,8 @@
       <workItem from="1728516616240" duration="4504000" />
       <workItem from="1728601888708" duration="242000" />
       <workItem from="1728602241934" duration="825000" />
+      <workItem from="1729015718434" duration="12000" />
+      <workItem from="1729040213796" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="example of JavaFX">
       <option name="closed" value="true" />
