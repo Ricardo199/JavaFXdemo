@@ -1,2 +1,2 @@
 # JavaFXdemo
-demo fo JavaFX, just having a feel for it
+demo for JavaFX, just having a feel for it
